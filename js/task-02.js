@@ -20,5 +20,3 @@ newIngredient.textContent = ingredients[0];
 
 console.log(allIngredients);
 console.log(newIngredient);
-
-console.dir(newIngredient);
